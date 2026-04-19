@@ -20,8 +20,8 @@ library(ggrepel)
 # ============================================================
 
 FILE         <- file.choose()
-COUNTRY      <- "Spain"
-COUNTRY_CODE <- "sp"                   # code
+COUNTRY      <- "italy"
+COUNTRY_CODE <- "it"                   # code
 
 # ============================================================
 # 2. ЗАГРУЗКА ДАННЫХ
